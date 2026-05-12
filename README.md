@@ -24,6 +24,8 @@ businesses understand which products and services receive the most complaints an
 ## Key Insights Found
 .2013–2014: Complaints rose sharply (+25.93%) but in 2015 Sharp decline (-33.33%), suggesting either improved resolution processes, fewer issues, or reduced reporting.
 .Average resolution time fluctuated across years, not showing a consistent downward trend.
+.Majority of complaints came via Web, followed by Phone.
+.Credit cards, mortgages, and bank accounts are the top complaint drivers.
 ## Dashboard Screenshot
 ![Consumer Complaint Analysis Dashboard]
 (<img width="548" height="549" alt="Screenshot 2026-05-11 120004" src="https://github.com/user-attachments/assets/08d53589-cfe6-4b37-ab37-0d92e3274925" />)
